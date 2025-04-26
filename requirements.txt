@@ -1,0 +1,9 @@
+matplotlib==3.9.4
+notebook==7.4.0
+numpy==2.0.2
+pinnstorch==0.1.2
+prettytable==3.16.0
+scipy==1.13.1
+torch==2.6.0
+torchmetrics==1.7.1
+torchsummary==1.5.1
